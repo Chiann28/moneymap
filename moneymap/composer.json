@@ -1,0 +1,19 @@
+{
+    "name": "chein/moneymap",
+    "description": "Php application for tracking expenses.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Chiann28",
+            "email": "parascheinian@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/CheinFramework",
+            "App\\": "src/App"
+        }
+    }
+    
+}
